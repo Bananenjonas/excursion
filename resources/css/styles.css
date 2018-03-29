@@ -1,0 +1,43 @@
+/*Background color black*/
+html {
+  background-color: black;
+  text-align: center;
+}
+
+/*Header color white*/
+h1,
+h2 {
+  color: white;
+}
+
+/*Verdana Font Header and Excursion text*/
+h1,
+h2,
+#places {
+  font-family: Verdana;
+}
+
+/*H1 Font style*/
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+/*H2 Font style*/
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+/*places Font style*/
+#places {
+  font-size: 21px;
+  color: gray;
+}
+
+/*Download Font style*/
+.download {
+  color: aquamarine;
+  font-size: 16px;
+  text-decoration: underline;
+}
